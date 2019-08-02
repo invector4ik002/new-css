@@ -1,0 +1,73 @@
+.btn-white {
+  width: 212px;
+  height: 45px;
+  border-radius: 23px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 45px;
+  letter-spacing: 3.6px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+  color: #212121;
+}
+.btn-white .arrow-black {
+  width: 9px;
+  height: 12px;
+  background-color: #ffff;
+}
+.btn-red {
+  width: 510px;
+  height: 71px;
+  border-radius: 35px;
+  display: inline-block;
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 71px;
+  letter-spacing: 3.6px;
+  background-color: #f44336;
+  box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+  color: #ffff;
+}
+.btn-red .white-arrow {
+  width: 29px;
+  height: 21px;
+  margin-bottom: -2px;
+}
+.btn-explore-all {
+  text-transform: uppercase;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 3.6px;
+  float: left;
+  display: block;
+  color: #212121;
+}
+.btn-explore-all .arrow-black {
+  width: 9px;
+  height: 12px;
+  background-color: #ffff;
+}
+.btn-circle {
+  width: 48px;
+  height: 48px;
+  box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: block;
+}
+.btn-circle .arrow-black {
+  width: 9px;
+  height: 12px;
+  margin-top: 11px;
+  margin-left: 19px;
+  background-color: #ffff;
+}
